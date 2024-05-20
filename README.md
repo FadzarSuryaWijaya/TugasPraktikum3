@@ -224,24 +224,28 @@ KRSMahasiswa (nim, kd_mk, kd_ds, semester, nilai)
 ![alt text](Picture/2.PNG)
 
 **output**
+
 ![alt text](Picture/2.1.PNG)
 
 5. Buat Tabel Mata Kuliah
 ![alt text](Picture/3.PNG)
 
 **output**
+
 ![alt text](Picture/3.1.PNG)
 
 6. Buat Tabel Jadwal Mengajar
 ![alt text](Picture/4.PNG)
 
 **output**
+
 ![alt text](Picture/4.1.PNG)
 
 7. Buat Tabel KRSMahasiswa
 ![alt text](Picture/5.PNG)
 
 **output**
+
 ![alt text](Picture/5.1.PNG)
 
 ### Buat laporan praktikum yang berisi, langkah-langkah praktikum beserta screenshot yang sudah dilakukan dalam bentuk dokumen.
