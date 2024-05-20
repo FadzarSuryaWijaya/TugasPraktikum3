@@ -192,12 +192,6 @@ Dalam banyak kasus, pemilihan antara `RESTRICT dan CASCADE `tergantung pada kebu
 
 - **CASCADE** melakukan tindakan yang sama pada data yang terkait. Jika Anda menghapus atau memperbarui data, CASCADE akan mempengaruhi semua data terkait, termasuk data anak yang terhubung secara rekursif.  
 
-### Buat laporan praktikum yang berisi, langkah-langkah praktikum beserta screenshot yang sudah dilakukan dalam bentuk dokumen.
-
-<img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
-
-- [Link Laporan Praktikum](https://bit.ly/3onAF8v)
-
 
 # Tugas pada Praktikum 2:
 • Buat DDL Script berdasarkan skema ERD tersebut diatas.
@@ -229,25 +223,31 @@ KRSMahasiswa (nim, kd_mk, kd_ds, semester, nilai)
 4. Buat Tabel Dosen
 ![alt text](Picture/2.PNG)
 
-output
+**output**
 ![alt text](Picture/2.1.PNG)
 
 5. Buat Tabel Mata Kuliah
 ![alt text](Picture/3.PNG)
 
-output
+**output**
 ![alt text](Picture/3.1.PNG)
 
 6. Buat Tabel Jadwal Mengajar
 ![alt text](Picture/4.PNG)
 
-output
+**output**
 ![alt text](Picture/4.1.PNG)
 
 7. Buat Tabel KRSMahasiswa
 ![alt text](Picture/5.PNG)
 
-output
+**output**
 ![alt text](Picture/5.1.PNG)
+
+### Buat laporan praktikum yang berisi, langkah-langkah praktikum beserta screenshot yang sudah dilakukan dalam bentuk dokumen.
+
+<img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
+
+- [Link Laporan Praktikum](https://bit.ly/3onAF8v)
 
 ## FINISH
