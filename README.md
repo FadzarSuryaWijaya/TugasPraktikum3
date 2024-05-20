@@ -248,10 +248,5 @@ KRSMahasiswa (nim, kd_mk, kd_ds, semester, nilai)
 
 ![alt text](Picture/5.1.PNG)
 
-### Buat laporan praktikum yang berisi, langkah-langkah praktikum beserta screenshot yang sudah dilakukan dalam bentuk dokumen.
-
-<img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
-
-- [Link Laporan Praktikum](https://bit.ly/3onAF8v)
 
 ## FINISH
